@@ -28,6 +28,10 @@ Data for topic classification is gathered from Kaggle and Hugging Face. K-train 
 Pegasus, BART Large, T5-Small, and T5-Base are employed for summarization. Evaluation is done manually and using Bert-score. BART and T5-Base outperform others in terms of word count and overall information extraction.
 
 ## Deployment
+
+<img src="https://github.com/AnasElbattra/News-Understanding-NLP/assets/75434006/247b5867-5262-4856-a9c6-bd6e5e54fab0" alt="deployment" width="400"/>
+
+
 ### Backend (Flask API)
 We utilize Flask to create an API that integrates all fine-tuned models for classification and summarization. Preprocessing is adapted for each model, and the API returns a list of classifications (e.g., [Fake - L-Biased - Negative - Tech]). Ngrok is used to host the API online.
 
