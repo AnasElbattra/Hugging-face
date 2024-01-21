@@ -45,7 +45,11 @@ A user-friendly news app is developed, allowing users to check or browse news ar
 ## Video Demo
 A video demo is provided to demonstrate the reliability of the models. Data generated from ChatGPT, labeled, and tested on the app is showcased.
 
-[Link to Video Demo](video_demo_link)
+[Link to Video Demo](https://github.com/AnasElbattra/News-Understanding-NLP/assets/75434006/25fe88a0-fcae-4352-a192-5441ac88b9ae
+)
+
+
+
 
 
 Feel free to explore the repositories and video demo for a detailed understanding of the project. Contributions and feedback are welcome!
