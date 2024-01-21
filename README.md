@@ -35,7 +35,7 @@ Pegasus, BART Large, T5-Small, and T5-Base are employed for summarization. Evalu
 ### Backend (Flask API)
 We utilize Flask to create an API that integrates all fine-tuned models for classification and summarization. Preprocessing is adapted for each model, and the API returns a list of classifications (e.g., [Fake - L-Biased - Negative - Tech]). Ngrok is used to host the API online.
 
-[Backend Repo](backend_repo_link)
+[Backend Repo](https://github.com/News-Understanding/News-Backend?tab=readme-ov-file#news-understanding-backend)
 
 ### App
 A user-friendly news app is developed, allowing users to check or browse news articles with pre-labeled classifications. The simple UI provides options to classify or summarize articles, connecting to the backend API.
